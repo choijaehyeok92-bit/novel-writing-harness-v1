@@ -1,0 +1,25 @@
+{
+  "id": "IMPORT-CANON-002",
+  "agent": "canon-continuity-reviewer",
+  "category": "TIMELINE_RISK",
+  "severity": "MUST_FIX",
+  "location": {
+    "file": "source-zip/40.노르만 사냥.txt",
+    "paragraph": null,
+    "line": null
+  },
+  "original": "36화: \"1185년 ... 그 해는 ... 지나갔다\" → 37화: \"1186년 1월\" → 40화: \"1185년 6월 11일\"",
+  "issue": "회차 순서상 시간이 1185년 말에서 1186년 1월로 전진한 뒤, 40화에서 명시적으로 1185년 6월로 약 7개월 이상 역행한다.",
+  "rationale": "노르만 전쟁과 직전 귀족 음모의 사건 인과는 연속적으로 서술되므로 의도적 플래시백 표지가 없는 현재 형태에서는 정본 연표가 두 개로 갈린다.",
+  "confidence": 1.0,
+  "evidence_type": "CANON",
+  "source_refs": [
+    "source-zip/36.갈채의 전쟁 (2).txt",
+    "source-zip/37.칼을 들기 전에.txt",
+    "source-zip/40.노르만 사냥.txt",
+    "canon/timeline.md"
+  ],
+  "suggested_patch": "노르만 침공 연도를 1185-06-11로 유지할지, 36~37화의 연말/1186-01 표기를 유지할지 작가 결정이 필요하다. 플래시백 의도라면 40화 도입에 명시적 시간회귀 표지를 추가한다.",
+  "preserve_if_intentional": true,
+  "status": "OPEN"
+}
