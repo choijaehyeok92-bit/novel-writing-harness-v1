@@ -1,0 +1,24 @@
+{
+  "id": "IMPORT-TYPO-001",
+  "agent": "typo-mechanics-checker",
+  "category": "TYPO",
+  "severity": "MUST_FIX",
+  "location": {
+    "file": "source-zip/92.귀환 (2).txt",
+    "paragraph": null,
+    "line": null
+  },
+  "original": "\"폐하께서 원정을 떠나시고 10개월 후인 1991년 1월, 포르피로예니토스 마누일이 탄생\"",
+  "issue": "12세기 서사 중 출생연도가 1991년으로 표기되어 있다.",
+  "rationale": "1189년 출정, 약 2년 부재, 1192년 대관/계승법이라는 주변 연표와 양립하는 값은 1191년이다.",
+  "confidence": 1.0,
+  "evidence_type": "MECHANICAL",
+  "source_refs": [
+    "source-zip/92.귀환 (2).txt",
+    "source-zip/94.대관식.txt",
+    "canon/timeline.md"
+  ],
+  "suggested_patch": "1991년 1월 → 1191년 1월",
+  "preserve_if_intentional": false,
+  "status": "OPEN"
+}
