@@ -1,0 +1,24 @@
+{
+  "id": "IMPORT-TERM-001",
+  "agent": "typo-mechanics-checker",
+  "category": "NAME_CONSISTENCY",
+  "severity": "SHOULD_FIX",
+  "location": {
+    "file": "source-zip/28.메가스 심볼로스.txt",
+    "paragraph": null,
+    "line": null
+  },
+  "original": "원고 전반에 \"메가스 심볼로스\"와 \"메가스 심불로스\"가 혼용됨",
+  "issue": "동일한 황제 직속 자문/연구 기관명으로 보이는 표기가 흔들린다.",
+  "rationale": "향후 canon 검색과 고유명사 연속성 검수에서 서로 다른 기관으로 오인될 수 있다.",
+  "confidence": 0.97,
+  "evidence_type": "MECHANICAL",
+  "source_refs": [
+    "source-zip/27.사라진 세금.txt",
+    "source-zip/28.메가스 심볼로스.txt",
+    "canon/world-bible.md"
+  ],
+  "suggested_patch": "작가가 선호하는 음역 하나를 정한 뒤 전 회차/캐논에서 통일한다. 결정 전 canon에는 spelling pending으로 유지한다.",
+  "preserve_if_intentional": true,
+  "status": "OPEN"
+}
