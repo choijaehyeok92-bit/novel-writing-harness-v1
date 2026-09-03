@@ -1,0 +1,22 @@
+{
+  "id": "IMPORT-MECH-001",
+  "agent": "typo-mechanics-checker",
+  "category": "CHAPTER_NUMBER_GAP",
+  "severity": "INFO",
+  "location": {
+    "file": "source-zip/",
+    "paragraph": null,
+    "line": null
+  },
+  "original": "68화 다음 파일이 70화이며 69화 파일 없음",
+  "issue": "업로드 ZIP에 69화 번호가 없다.",
+  "rationale": "실제 회차 누락인지 단순 번호 건너뜀인지 원고만으로 확정할 수 없다. 자동으로 70화 이후를 당겨 renumber하면 기존 게시 회차 참조를 깨뜨릴 수 있다.",
+  "confidence": 1.0,
+  "evidence_type": "MECHANICAL",
+  "source_refs": [
+    "canon/source-index.md"
+  ],
+  "suggested_patch": "작가 확인 전 번호 유지. 실제 누락본이 있으면 69화만 추가하고, 의도된 번호 공백이면 INFO를 종료한다.",
+  "preserve_if_intentional": true,
+  "status": "OPEN"
+}
