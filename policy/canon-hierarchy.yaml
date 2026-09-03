@@ -1,0 +1,24 @@
+version: 1
+priority:
+  - rank: 1
+    source: "policy/non-negotiables.yaml"
+  - rank: 2
+    source: "canon/story-bible.md"
+  - rank: 3
+    source: "canon/world-bible.md"
+  - rank: 4
+    source: "canon/timeline.md"
+  - rank: 5
+    source: "canon/characters/**"
+  - rank: 6
+    source: "확정/게시된 기존 회차"
+  - rank: 7
+    source: "canon/arcs/**"
+  - rank: 8
+    source: "history/**"
+  - rank: 9
+    source: "현재 초고"
+rules:
+  - "상위 정본과 하위 문서가 충돌하면 상위 문서를 따른다."
+  - "기존 게시 회차를 변경해야 해결되는 문제는 CANON_CHANGE_REQUIRED로 표시한다."
+  - "대체역사 설정과 실제 역사 차이는 먼저 intentional divergence 여부를 판정한다."

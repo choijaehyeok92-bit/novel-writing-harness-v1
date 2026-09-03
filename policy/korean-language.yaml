@@ -1,0 +1,23 @@
+version: 1
+language: "ko-KR"
+checks:
+  spelling: true
+  spacing: true
+  particles: true
+  agreement: true
+  tense: true
+  punctuation: true
+  quotation_marks: true
+  duplicate_words: true
+  name_consistency: true
+style_protection:
+  preserve_fragments_when_rhythmic: true
+  preserve_dialogue_colloquialism: true
+  preserve_character_voice: true
+  preserve_intentional_repetition: true
+  avoid_overformalization: true
+severity:
+  typo: "MUST_FIX"
+  clear_grammar_error: "MUST_FIX"
+  awkward_but_valid: "SHOULD_FIX"
+  stylistic_preference: "OPTIONAL"

@@ -1,0 +1,23 @@
+version: 1
+evidence_levels:
+  A:
+    description: "1차 사료, 학술판 사료, 권위 있는 전문 연구서/논문으로 직접 확인"
+  B:
+    description: "복수의 신뢰 가능한 2차 연구가 일치"
+  C:
+    description: "일반 전문 참고자료 또는 제한적 근거"
+  D:
+    description: "추론 또는 유사 사례에 기반한 개연성 판단"
+finding_rules:
+  ERROR:
+    minimum_evidence: "A or strong B"
+  PLAUSIBILITY_RISK:
+    minimum_evidence: "B/C/D"
+  NEEDS_SOURCE:
+    minimum_evidence: "unknown"
+  INTENTIONAL_DIVERGENCE:
+    minimum_evidence: "canon"
+rules:
+  - "위키나 블로그만으로 CRITICAL 고증 오류를 확정하지 않는다."
+  - "정확한 연도/직함/제도명은 가능한 경우 직접 근거를 남긴다."
+  - "12세기 비잔티움과 후대 비잔티움 제도를 혼용하지 않는다."

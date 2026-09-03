@@ -1,0 +1,16 @@
+{
+  "id": "CH000-CANON-001",
+  "agent": "canon-continuity-reviewer",
+  "category": "CONTINUITY_ERROR",
+  "severity": "MUST_FIX",
+  "location": {"file":"manuscripts/drafts/000.md","paragraph":12,"line":null},
+  "original": "원문",
+  "issue": "문제 설명",
+  "rationale": "왜 문제인지",
+  "confidence": 0.95,
+  "evidence_type": "CANON",
+  "source_refs": ["canon/timeline.md"],
+  "suggested_patch": "최소 수정안",
+  "preserve_if_intentional": false,
+  "status": "OPEN"
+}

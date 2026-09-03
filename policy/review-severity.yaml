@@ -1,0 +1,17 @@
+version: 1
+severity:
+  CRITICAL:
+    meaning: "정본/사건 인과/중대한 역사 사실을 무너뜨리는 오류"
+    default_action: "must_fix_or_author_override"
+  MUST_FIX:
+    meaning: "명백한 논리·문법·표기 오류 또는 독자 혼란을 야기하는 연속성 문제"
+    default_action: "fix"
+  SHOULD_FIX:
+    meaning: "개연성, 가독성, 고증 신뢰도를 유의미하게 개선"
+    default_action: "review"
+  OPTIONAL:
+    meaning: "취향/스타일 개선안"
+    default_action: "author_choice"
+  INFO:
+    meaning: "확인용 메모"
+    default_action: "none"

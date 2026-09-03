@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["topic","claim","classification","evidence_level","confidence"],
+  "properties": {
+    "topic":{"type":"string"},
+    "claim":{"type":"string"},
+    "classification":{"enum":["ERROR","PLAUSIBILITY_RISK","NEEDS_SOURCE","INTENTIONAL_DIVERGENCE","SUPPORTED"]},
+    "evidence_level":{"enum":["A","B","C","D","UNKNOWN"]},
+    "confidence":{"type":"number","minimum":0,"maximum":1},
+    "sources":{"type":"array","items":{"type":"string"}},
+    "canon_implication":{"type":["string","null"]}
+  }
+}

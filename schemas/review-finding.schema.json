@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["id","agent","category","severity","location","issue","confidence","evidence_type","suggested_patch","preserve_if_intentional","status"],
+  "properties": {
+    "id": {"type":"string"},
+    "agent": {"type":"string"},
+    "category": {"type":"string"},
+    "severity": {"enum":["CRITICAL","MUST_FIX","SHOULD_FIX","OPTIONAL","INFO"]},
+    "location": {
+      "type":"object",
+      "required":["file"],
+      "properties": {
+        "file":{"type":"string"},
+        "paragraph":{"type":["integer","null"]},
+        "line":{"type":["integer","null"]}
+      }
+    },
+    "original":{"type":["string","null"]},
+    "issue":{"type":"string"},
+    "rationale":{"type":["string","null"]},
+    "confidence":{"type":"number","minimum":0,"maximum":1},
+    "evidence_type":{"enum":["CANON","HISTORICAL_A","HISTORICAL_B","HISTORICAL_C","HISTORICAL_D","LANGUAGE_RULE","MECHANICAL","INFERENCE","AUTHOR_INTENT"]},
+    "source_refs":{"type":"array","items":{"type":"string"}},
+    "suggested_patch":{"type":["string","null"]},
+    "preserve_if_intentional":{"type":"boolean"},
+    "status":{"enum":["OPEN","ACCEPTED","REJECTED","NEEDS_RESEARCH","CONFLICT","RESOLVED"]}
+  },
+  "additionalProperties": true
+}

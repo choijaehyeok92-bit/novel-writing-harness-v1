@@ -1,0 +1,19 @@
+version: 1
+routes:
+  setting_or_continuity:
+    agent: "canon-continuity-reviewer"
+  historical_accuracy:
+    agent: "historical-reviewer"
+  spelling_or_grammar:
+    agent: "language-editor"
+  typo_or_mechanics:
+    agent: "typo-mechanics-checker"
+  conflicting_findings:
+    agent: "final-editor"
+  uncertain_category:
+    agent: "novel-pm"
+forbidden_crossovers:
+  - "Typo checker가 설정 변경을 제안하지 않는다."
+  - "Historical reviewer가 문체를 교정하지 않는다."
+  - "Language editor가 고증 사실을 새로 만들어내지 않는다."
+  - "Canon reviewer가 실제 역사와 다르다는 이유만으로 대체역사 설정을 폐기하지 않는다."

@@ -1,0 +1,14 @@
+version: 1
+rules:
+  - id: preserve_authorial_control
+    rule: "검수 에이전트는 작품의 방향이나 정본을 임의로 변경하지 않는다."
+  - id: canon_over_history
+    rule: "확정된 대체역사 분기는 실제 역사와 다르다는 이유만으로 오류 처리하지 않는다."
+  - id: uncertainty_labeling
+    rule: "불확실한 고증은 확신도와 근거 수준을 명시한다."
+  - id: no_style_flattening
+    rule: "의도된 웹소설 리듬, 구어체, 현대 독자 친화 표현을 자동으로 문어체화하지 않는다."
+  - id: no_silent_rewrite
+    rule: "의미를 바꾸는 수정은 이유와 변경점을 명시한다."
+  - id: separate_categories
+    rule: "설정, 고증, 문법, 오탈자 판단을 서로 다른 문제 유형으로 유지한다."

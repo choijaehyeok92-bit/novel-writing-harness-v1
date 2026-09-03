@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": ["chapter","reviewed_at","findings","gate"],
+  "properties": {
+    "chapter":{"type":"string"},
+    "reviewed_at":{"type":"string"},
+    "findings":{"type":"array","items":{"type":"object"}},
+    "gate":{"enum":["PASS","PASS_WITH_NOTES","FAIL","AUTHOR_DECISION_REQUIRED"]},
+    "summary":{"type":"object"}
+  }
+}
