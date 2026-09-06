@@ -1,6 +1,6 @@
 # World Bible
 
-> Canon state through manuscript chapter 107. `ESTABLISHED` means enacted/on-page. `PLANNED` means Alexios has discussed or designed it but the manuscript has not yet established full implementation.
+> Canon state through manuscript chapter 108. `ESTABLISHED` means enacted/on-page. `PLANNED` means Alexios has discussed or designed it but the manuscript has not yet established full implementation.
 
 ## Political system
 
@@ -93,7 +93,7 @@ The reorganized central government contains a permanent **Megas Logothetes** coo
 - Church institutions can challenge imperial policy through law and canon reasoning; Alexios generally answers by written legal distinction rather than simply silencing them.
 - After Jerusalem, Alexios protects Muslim worship at the holy places; this raises tension with Balsamon but the emperor's status as recoverer of the Holy City gives him unusual room.
 
-## Roman identity and subject status — ESTABLISHED by chapters 100–101
+## Roman identity and subject status — ESTABLISHED by chapters 100–101, culturally reinforced by ch108
 
 - "Roman" is deliberately redefined as an overarching **political** category capable of including ethnic/religious outsiders who are governed by Roman law, pay Roman taxes, receive Roman protection, and owe Roman loyalty.
 - Orthodoxy is no longer a necessary condition for the broad political label "Roman."
@@ -102,6 +102,7 @@ The reorganized central government contains a permanent **Megas Logothetes** coo
 - **시민** and **신민** are treated as secular/legal categories rather than categories the Church can exclusively define.
 - This distinction allows Muslim craftsman **유수프 빈 이브라힘 알라디키** (표기 변형 `알라다키` 존재; terminology finding open) to be recognized as Roman and protected/promoted without declaring Islam equivalent to Orthodoxy.
 - This remains politically controversial in Constantinople and is an active integration project, not a settled modern equality regime.
+- Chapter 108 shows the cultural/public side of the policy: Alexios publicly describes a mixed Greek/Turkic Anatolikon team as demonstrating what Rome is, and a Constantinopolitan crowd later chants the name of Muslim Turkic race winner Kutlu Arslan. This is evidence of real popular-cultural incorporation in the moment, **not** proof that anti-Turkic or anti-Muslim prejudice has disappeared.
 
 ## Military
 
@@ -110,9 +111,13 @@ The reorganized central government contains a permanent **Megas Logothetes** coo
 - Alexios Branas becomes a central field commander and, by the 1190s, Megas Domestikos.
 - Andronikos Kontostephanos is a foundational naval/command figure through the crusade era and retires by 1192; later Megas Doux office is held by Constantine Angelos in the current period.
 
+### Turkic contract cavalry / Tourkopouloi — ESTABLISHED minimum by ch108
+- Chapter 108 establishes at least one **Muslim Turkic contract cavalryman**, Kutlu Arslan, serving with the **Tourkopouloi** after entering Roman service as a captive from the Rum side of the crusade-era Anatolian war.
+- Do **not** infer from this single character that all Tourkopouloi are Muslim, all are recent captives, or that the corps has one uniform ethnic/religious composition. What is locked is that Alexios's current military system can include a Muslim Turkic contract soldier under that formation label.
+
 ### Gunpowder system — ESTABLISHED
 - State secret workshops under Leon develop gunpowder weapons over multiple years, with repeated fatal failures.
-- **Cheirobolon**: matchlock-style shoulder firearm; reliability milestone of 100 consecutive shots on **1187-08-04**.
+- **Cheirobolon**: matchlock-style shoulder firearm; reliability milestone of 100 consecutive successful shots on **1187-08-04**.
 - **Pyrobolon**: heavy bronze cannon used mainly for siege/breaching; initially expensive, inaccurate, and logistically demanding.
 - **Brontes**: specialist corps expanding from mine/demolition work into gunpowder handling, training, and related tasks.
 - **Syntagma / "불꽃의 신타그마"**: mixed formation combining firearm troops with conventional close-order protection/support.
@@ -197,7 +202,7 @@ The reorganized central government contains a permanent **Megas Logothetes** coo
 
 ### Antioch and Cilician Armenia — ESTABLISHED
 - Bohemond III's Antioch is treated/confirmed as under Roman suzerainty, with stronger garrison/succession leverage after the crusade.
-- Levon receives a royal title while accepting Roman overlordship; autonomy is substantial but not full independence.
+- Levon receives a royal (`rex`) title while accepting Roman overlordship; autonomy is substantial but not full independence.
 
 ### Jerusalem / Ayyubids — ESTABLISHED
 - Acre falls to the coalition; massacre is prohibited.
@@ -219,6 +224,15 @@ The reorganized central government contains a permanent **Megas Logothetes** coo
   - **Abdar tribe**: Aydogan Bey; son **Tungar**; becomes a registered nomad community.
   - **Bayundur tribe**: led by **Erten Hatun**; enters winter-pasture/livestock contracts while retaining summer migration.
 - Cultural integration culminates, for the current arc, in the revival of equestrian contests and the **Ta Basilika Tzykanistika**; Anatolikon meros wins the **Diskos tis Tykhes/Tikis** in spring 1194.
+- Chapter 108 extends that spectacle with the individual **Basilike Kelitika** race. Muslim Turkic Tourkopouloi contract cavalryman **Kutlu Arslan**, riding **Karagöz**, wins the **Mega Kypellon** and is acclaimed by name in the Hippodrome.
+
+## Imperial sport, awards, and symbols — ESTABLISHED by ch108
+
+- Alexios has introduced a **three-level winners' podium** for imperial sporting ceremonies, with bronze-colored medals for third place, silver-colored medals for second, and gold-colored medals for first.
+- The victorious tzykanion meros receives the **Diskos tis Tikis**; the names of the winning meros are to be engraved on it after victory.
+- The **Basilike Kelitika** is an individual equestrian race presented as the festival's headline event; its champion receives the **Mega Kypellon**.
+- The Mega Kypellon shown in chapter 108 is a tall gilded-silver cup with winged-horse handles, a victory cross, vine/laurel decoration, four riders on the central register, and the newly adopted imperial double-headed eagle on the lower register. The winner's name is engraved afterward.
+- By 1194 the imperial household has **recently begun using the double-headed eagle as an imperial symbol**. This is a locked alternate-history adoption in this timeline; reviewers must not retroactively treat it as an already standardized 12th-century historical state emblem.
 
 ## Technology diffusion rule for future review
 
