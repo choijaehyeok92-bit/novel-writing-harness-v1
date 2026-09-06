@@ -1,6 +1,6 @@
 # Story Bible
 
-> Source of truth: manuscript ZIP imported 2026-09-04. This file records only facts established by the manuscript or explicit system rules stated in-scene. Planned-but-not-yet-realized ideas are not treated as established facts.
+> Source of truth: manuscript ZIP imported 2026-09-04 plus later reviewed/author-approved manuscripts stored under `manuscripts/reviewed/`. This file records only facts established by canonical manuscript text or explicit system rules stated in-scene. Planned-but-not-yet-realized ideas are not treated as established facts.
 
 ## Work identity
 
@@ -62,8 +62,9 @@ The protagonist's program expands in stages:
 - Son of Alexios and Anna; manuscript context establishes birth in **1191-01** (chapter 92 contains an obvious mechanical typo "1991년 1월").
 - Elevated as child co-emperor under the new succession system by 1192.
 - Alexios increasingly frames institutional reform as a state he can safely hand to Manuel rather than a realm dependent on himself alone.
+- By chapter 108 he is present with his parents at the Hippodrome equestrian festival and spontaneously picks the small black horse Karagöz as the likely winner of the Basilike Kelitika race.
 
-## Major locked alternate-history divergences through chapter 107
+## Major locked alternate-history divergences through chapter 108
 
 - 1181: Andronikos Komnenos is defeated, publicly tried, and executed; his historical takeover does not occur.
 - Therefore the historical 1182 Latin massacre under Andronikos does not occur in the same form.
@@ -78,14 +79,17 @@ The protagonist's program expands in stages:
 - Antioch and Cilician Armenia are brought into/confirmed within Roman suzerainty on revised terms.
 - Alexios returns with immense crusading legitimacy and promulgates a written imperial succession law in 1192.
 - Roman political identity is widened to include loyal non-Orthodox subjects, including Muslims, without making them members of the Orthodox Church.
-- By 1194 Turkic integration has moved from military settlement to registration, contracts, economic incorporation, and shared imperial popular culture.
+- By 1194 Turkic integration has moved from military settlement to registration, contracts, economic incorporation, military service, and shared imperial popular culture.
+- The 1194 imperial equestrian festival formalizes modern-reader-recognizable podium/medal/trophy conventions under imperial sponsorship. The team tzykanion winner receives the **Diskos tis Tikis**, while the individual **Basilike Kelitika** race awards the **Mega Kypellon**.
+- A Muslim Turkic contract cavalryman, **Kutlu Arslan**, wins the Basilike Kelitika on his horse **Karagöz** and is publicly acclaimed by the Constantinopolitan crowd; the scene establishes cultural integration as real but momentary rather than erasing existing anti-Turkic/anti-Muslim prejudice.
+- By chapter 108 the imperial household has recently begun using the **double-headed eagle** as an imperial symbol; treat this as an established alternate-history adoption, not as a claim that it was already the fixed historical state emblem in the 12th century.
 
 ## Manuscript endpoint
 
-- Latest canonical manuscript selected for import: **Chapter 107, `디스코스 티스 티키스 (2)`**.
-- Current endpoint: spring **1194**, the Anatolikon meros wins the imperial tzykanion-style final in the Hippodrome, with Turkic rider Tungar publicly sharing in a Roman civic spectacle.
+- Latest canonical reviewed manuscript: **Chapter 108, `바실리케 켈리티카`**, stored at `manuscripts/reviewed/108.바실리케 켈리티카.txt`.
+- Current endpoint: spring **1194**, immediately after the Anatolikon meros's tzykanion victory, the imperial equestrian festival continues with the Basilike Kelitika. Turkic Muslim contract cavalryman Kutlu Arslan and his black horse Karagöz win the Mega Kypellon; the Hippodrome crowd shifts from chanting for the "black horse" to chanting Arslan's name.
 
-## Not locked by this import
+## Not locked by this import / later reviewed additions
 
 - Final ending of the novel.
 - Ana's hidden identity/origin beyond current viewpoint knowledge.
