@@ -1,4 +1,4 @@
-# Arc Canon Through Chapter 107
+# Arc Canon Through Chapter 108
 
 ## Arc 1 — Survival, Regency, Andronikos (ch1–26) — COMPLETED
 
@@ -60,7 +60,7 @@ Can Alexios use the Jerusalem crisis to reconcile enough of East/West to recover
 ### Character result
 Alexios becomes more than a survivor/reformer: he is now a sacral-military "recoverer" whose authority can support constitutional/legal innovations that would previously have been impossible.
 
-## Arc 4 — Succession, Finance, Roman Identity, Integration (ch94–107) — CURRENT
+## Arc 4 — Succession, Finance, Roman Identity, Integration (ch94–108) — CURRENT
 
 ### Core question
 Can a state built by one extraordinary emperor survive dynastic succession, financial complexity, religious pluralism and conquest-integration?
@@ -75,7 +75,10 @@ Can a state built by one extraordinary emperor survive dynastic succession, fina
 - Four-field agriculture and pasture registration create both prosperity and nomad displacement.
 - Alexios deliberately uses the crisis to separate tribes willing to register/contract from those willing to fight; cooperating communities receive protection and economic routes, resistant ones are destroyed.
 - Imperial equestrian games convert Anatolian/Turkic martial skill into a shared public spectacle.
-- Ch107 endpoint: Anatolikon meros defeats Laskaris meros 4–3 and wins the Diskos tis Tikis.
+- Ch107: Anatolikon meros defeats Laskaris meros 4–3 and wins the Diskos tis Tikis.
+- Ch108: the post-match imperial award ceremony establishes three-tier podium and gold/silver/bronze medal presentation as a new imperial sporting custom; Alexios explicitly frames the mixed Greek/Turkic Anatolikon victory as an image of political Roman identity.
+- Ch108: the individual **Basilike Kelitika** culminates the festival. Muslim Turkic contract cavalryman **Kutlu Arslan**, serving with the Tourkopouloi, wins the **Mega Kypellon** on his black horse **Karagöz**. The Constantinopolitan crowd moves from chanting for the horse to chanting Arslan's name, showing genuine cultural incorporation without resolving deeper integration backlash.
+- Ch108 also establishes that the imperial household has recently adopted the **double-headed eagle** as an imperial symbol and uses it on the Mega Kypellon.
 
 ### Active future pressures already seeded
 - Dandolo + Henry / Western imperial coordination against Roman commercial expansion.
