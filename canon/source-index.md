@@ -18,7 +18,12 @@
 - Chapter 106 has two source files:
   - `106.디스코스 티스 타키스.txt` — superseded for this import.
   - `106.디스코스 티스 티키스.txt` — **selected**, latest archive revision and ~98% similar to prior revision.
-- Chapter 107: `107.디스코스 티스 티키스 (2).txt` — selected and establishes current endpoint.
+- Chapter 107: `107.디스코스 티스 티키스 (2).txt` — selected and established the archive-import endpoint.
+
+## Post-import reviewed canonical additions
+
+- Chapter 108: `manuscripts/reviewed/108.바실리케 켈리티카.txt` — **reviewed and author-approved**, added on 2026-09-07; supersedes no earlier chapter and becomes the current canonical manuscript endpoint.
+- Canon extraction from chapter 108 updates the story endpoint, 1194 equestrian-festival timeline, Turkic-integration arc, imperial spectacle/symbol canon, and supporting-character canon.
 
 ## Import rule
 
@@ -30,6 +35,8 @@ Where selected manuscripts contradict each other internally, the import follows 
 2. record the contradiction as an open Finding;
 3. keep the affected timeline row marked `CONFLICT` until author resolution;
 4. do not propagate the conflicting date into higher-level canon as settled fact.
+
+Reviewed post-import chapters are added as later canonical sources without retroactively changing the archive-selection record above.
 
 ## Open import issues
 
