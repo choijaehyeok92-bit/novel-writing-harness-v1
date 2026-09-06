@@ -1,6 +1,6 @@
 # Timeline
 
-> Canon timeline through chapter 107. Dates marked `CONFLICT` are deliberately not resolved by this import; see open review findings.
+> Canon timeline through chapter 108. Dates marked `CONFLICT` are deliberately not resolved by this import; see open review findings.
 
 | Date | Event | Status | Source chapters | Consequence |
 |---|---|---|---|---|
@@ -45,4 +45,7 @@
 | 1193 | Spinning wheel diffusion and Yusuf case force legal redefinition of Roman identity | CONFIRMED | 99–101 | Muslims can be political Romans without being Orthodox church members |
 | 1193 | Four-field/alfalfa program expands; land/pasture registration pressures mobile Turkic tribes | CONFIRMED | 101–105 | Integration and violent suppression occur together |
 | 1193 autumn | Regional equestrian preliminaries begin | CONFIRMED | 106 latest | Imperial popular-culture integration arc begins |
-| 1194 spring, Constantinople founding-day week | Imperial equestrian/tzykanion festival reaches final; Anatolikon meros defeats Laskaris meros 4–3 and wins Diskos tis Tikis | CONFIRMED | 106 latest–107 | Current manuscript endpoint; Turkic rider Tungar shares public Roman victory spectacle |
+| 1194 spring, Constantinople founding-day week | Imperial equestrian/tzykanion festival reaches final; Anatolikon meros defeats Laskaris meros 4–3 and wins Diskos tis Tikis | CONFIRMED | 106 latest–107 | Turkic rider Tungar shares public Roman victory spectacle |
+| 1194 spring, same festival | Alexios personally awards bronze/silver/gold medals on a newly introduced three-level podium; he praises the mixed Greek/Turkic Anatolikon meros as an image of what Rome can be | CONFIRMED | 108 | Sporting ceremony becomes an explicit tool of political-Roman integration and imperial popular culture |
+| 1194 spring, same festival | **Basilike Kelitika** individual race held at the Hippodrome; Muslim Turkic Tourkopouloi contract cavalryman **Kutlu Arslan**, riding **Karagöz**, wins and receives the **Mega Kypellon** | CONFIRMED | 108 | Current manuscript endpoint; Constantinopolitan spectators move from chanting for the black horse to chanting Arslan's name, publicly incorporating a Muslim Turkic victor into the imperial spectacle |
+| 1194 spring, by ch108 | Imperial household has recently begun using the **double-headed eagle** as an imperial symbol; it appears on the Mega Kypellon | CONFIRMED ALT-HISTORY ADOPTION | 108 | Later reviewers should treat the symbol's officialization as this timeline's deliberate development, not as automatic 12th-century historical baseline |
