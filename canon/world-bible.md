@@ -1,6 +1,6 @@
 # World Bible
 
-> Canon state through manuscript chapter 108. `ESTABLISHED` means enacted/on-page. `PLANNED` means Alexios has discussed or designed it but the manuscript has not yet established full implementation.
+> Canon state through manuscript chapter 108. `ESTABLISHED` means enacted/on-page. `PLANNED` means Alexios has discussed or designed it but the manuscript has not yet established full implementation. Author-locked transition facts for chapter 109 may also be recorded where explicitly marked.
 
 ## Political system
 
@@ -190,10 +190,17 @@ The reorganized central government contains a permanent **Megas Logothetes** coo
 ### Serbia — ESTABLISHED
 - Stefan Nemanja submits after the Norman-war settlement; obligations/hostage arrangements restore Roman leverage rather than immediate direct annexation.
 
-### Holy Roman Empire — ESTABLISHED
+### Holy Roman Empire — ESTABLISHED THROUGH CH108 + AUTHOR-LOCKED CH109 TRANSITION
 - Frederick Barbarossa and Alexios recognize a carefully negotiated "Two Romes" modus vivendi and conduct a joint crusade while remaining rival emperors with separate churches and states.
-- Barbarossa survives the historical Saleph disaster.
-- Post-crusade relationship is respectful but increasingly competitive; Henry's succession and Western centralization become future strategic risks.
+- Barbarossa survives the historical Saleph disaster and returns west with the prestige of a successful crusading emperor and recoverer of the Holy City.
+- Post-crusade Frederick deliberately accelerates western imperial consolidation because he judges that the western empire will otherwise fall increasingly behind Alexios's Roman state. He delegates much of the practical execution to Henry VI so that Henry acquires governing authority before succession.
+- Frederick's strengthened program includes Reichsgut review/recovery, tighter revenue/property recording, broader use of imperial ministeriales in delegated administrative and military offices, stronger Landfrieden, imperial-city/lesser-noble counterweights to great princes, and guarded imperial gunpowder research.
+- **Settlement A — LOCKED ALT-HISTORY:** Frederick uses his extraordinary prestige, coercive leverage and bargaining to prevent the large Saxon and Bavarian territorial complexes from being recombined under a single magnate capable of recreating a Henry-the-Lion-scale counterpower. This succeeds despite substantial princely resistance.
+- **Settlement B — LOCKED ALT-HISTORY:** Frederick secures a recognized imperial-princely compact/practice under which, when a reigning emperor has a legitimate eldest son without a disqualifying defect, the princes are expected to elect that heir King of the Romans. The electoral form remains, but Hohenstaufen hereditary expectation is deliberately strengthened.
+- Frederick does **not** obtain Settlements A and B costlessly. He suppresses some opposition with the prestige of the Holy-City recoverer, but elsewhere must bargain and concede important hereditary/security guarantees to princes. The result deliberately contains a contradiction: imperial/dynastic power becomes stronger at the same time that territorial princely heredity and corporate expectations become harder to unwind.
+- Henry VI carries out much of the reform implementation and therefore inherits both real administrative authority and personal resentment from affected princes.
+- **LOCKED DATE:** Frederick dies in spring **1194, several weeks before Constantinople's founding-day festival**. His death predates the ch106–108 festival even though Constantinople has not yet reacted to the news on-page; travel/reporting delay accounts for the later receipt of the death notice.
+- After Frederick's death, Henry inherits the strengthened western imperial machinery but not Frederick's unique personal authority. Western internal resistance and the Sicilian inheritance question therefore become immediate strategic pressures, while Henry is not personally bound by Frederick and Alexios's battlefield fraternity.
 
 ### Rum Sultanate / Anatolia — ESTABLISHED
 - Kilij Arslan II does not follow the same historical fragmentation path; he resists the crusading-Roman coalition.
