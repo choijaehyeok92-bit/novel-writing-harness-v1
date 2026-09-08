@@ -64,7 +64,7 @@ The protagonist's program expands in stages:
 - Alexios increasingly frames institutional reform as a state he can safely hand to Manuel rather than a realm dependent on himself alone.
 - By chapter 108 he is present with his parents at the Hippodrome equestrian festival and spontaneously picks the small black horse Karagöz as the likely winner of the Basilike Kelitika race.
 
-## Major locked alternate-history divergences through chapter 108
+## Major locked alternate-history divergences through chapter 110
 
 - 1181: Andronikos Komnenos is defeated, publicly tried, and executed; his historical takeover does not occur.
 - Therefore the historical 1182 Latin massacre under Andronikos does not occur in the same form.
@@ -83,11 +83,18 @@ The protagonist's program expands in stages:
 - The 1194 imperial equestrian festival formalizes modern-reader-recognizable podium/medal/trophy conventions under imperial sponsorship. The team tzykanion winner receives the **Diskos tis Tikis**, while the individual **Basilike Kelitika** race awards the **Mega Kypellon**.
 - A Muslim Turkic contract cavalryman, **Kutlu Arslan**, wins the Basilike Kelitika on his horse **Karagöz** and is publicly acclaimed by the Constantinopolitan crowd; the scene establishes cultural integration as real but momentary rather than erasing existing anti-Turkic/anti-Muslim prejudice.
 - By chapter 108 the imperial household has recently begun using the **double-headed eagle** as an imperial symbol; treat this as an established alternate-history adoption, not as a claim that it was already the fixed historical state emblem in the 12th century.
+- By chapter 109, paper/printing has diffused far enough that Constantinople has a plural print ecosystem: official gazettes, aristocratic/private bulletins, party publications, and cheap rumor sheets called **Kitrina Fyla / 키트리나 필라**. Alexios deliberately permits even hostile or low-quality print and personally uses it alongside Ophthalmos reporting to judge public opinion.
+- Chapter 109 establishes the **Ta Basilika Olympia / 타 바실리카 올림비아** as an imperial concept under consideration: a Christianized, Constantinople-centered revival drawing on ancient athletics plus Roman/new events. This is **PLANNED, not yet enacted**.
+- Frederick Barbarossa's post-crusade western consolidation is now manuscript-confirmed: Reichsgut review, stronger annual estate/regalia reporting, wider ministerial service, Landfrieden enforcement, urban/minor-noble counterweights, guarded western gunpowder workshops, prevention of a reconstructed Henry-the-Lion-scale Saxon/Bavarian bloc, and a compact strengthening Hohenstaufen priority in election of a qualified legitimate eldest son as King of the Romans in exchange for stronger princely hereditary guarantees.
+- Frederick dies in **spring 1194, several weeks before Constantinople's founding-day festival**, at Nuremberg. Before dying he directs Henry toward the Sicilian claim and treats Sicily as the independent dynastic resource needed to strengthen Hohenstaufen power against the eastern Roman Empire.
+- Frederick is buried at **Speyer Cathedral** beside Beatrice after an imperial funeral. Alexios later sends a silver-plated perpetual lamp bearing a bilingual dedication to "Frederick, Imperator of the West" and his Jerusalem comrade, making the Two-Romes settlement physically commemorated at the tomb.
+- **Frederick VI of Swabia survives** his historical 1191 death in this timeline and is a crusade hero. By chapter 110 he is personally loyal to his brother Henry and shows no overt throne ambition, but major princes visibly treat him as an alternate Hohenstaufen focal point. Alexios predicts Henry will eventually confine him, but **that confinement has not yet occurred on-page**.
+- By chapter 110 Henry VI is still **Romanorum Rex / King of the Romans**, not yet crowned Imperator in this timeline. Mesopotamites deliberately greets him by that exact title in a public audience, signaling that Alexios's recognition of Frederick's imperial rank does not automatically transfer before the western imperial coronation.
 
 ## Manuscript endpoint
 
-- Latest canonical reviewed manuscript: **Chapter 108, `바실리케 켈리티카`**, stored at `manuscripts/reviewed/108.바실리케 켈리티카.txt`.
-- Current endpoint: spring **1194**, immediately after the Anatolikon meros's tzykanion victory, the imperial equestrian festival continues with the Basilike Kelitika. Turkic Muslim contract cavalryman Kutlu Arslan and his black horse Karagöz win the Mega Kypellon; the Hippodrome crowd shifts from chanting for the "black horse" to chanting Arslan's name.
+- Latest canonical reviewed manuscripts: **Chapter 109, `한 시대가 저물고`**, stored at `manuscripts/reviewed/109.한 시대가 저물고.txt`, and **Chapter 110, `하인리히`**, stored at `manuscripts/reviewed/110.하인리히.txt`.
+- Current endpoint: spring **1194**, after Frederick Barbarossa's death and burial at Speyer. Byzantine envoy Konstantinos Mesopotamites has reached the western court, observed princely warmth toward surviving crusade hero Frederick VI of Swabia, offered Alexios's perpetual lamp at Barbarossa's tomb, and entered Henry VI's public audience. The chapter ends as Mesopotamites addresses Henry precisely as **"Romanorum Rex"**, causing Henry's eyebrow to twitch.
 
 ## Not locked by this import / later reviewed additions
 
