@@ -1,4 +1,4 @@
-# Arc Canon Through Chapter 110
+# Arc Canon Through Chapter 111
 
 ## Arc 1 — Survival, Regency, Andronikos (ch1–26) — COMPLETED
 
@@ -101,21 +101,30 @@ With Frederick Barbarossa dead, can the limited Two-Romes accommodation survive 
 - Major princes visibly show Frederick VI unusual warmth, including Adolf of Altena, Hermann I of Thuringia, Henry I of Brabant, Henry III of Limburg and Albert I of Meissen. The manuscript frames this as a political signal against Henry's centralizing line, making Frederick an objective focal point whether he wants the role or not.
 - Alexios predicts Henry will eventually confine Frederick rather than kill him, because execution would create a martyr and opposition banner. This is **prediction only; no confinement has yet happened on-page**.
 - Mesopotamites deliberately does not recruit or contact Frederick as a Byzantine proxy. Alexios judges premature intervention would expose Byzantine intent and could provoke Henry into eliminating his brother.
-- The western mission's immediate objective is to determine the scope of Henry's ambition: a tolerable strategic competitor seeking Sicily and balance, or a ruler seeking to make the western empire the sole Rome.
 - Ch110 ends at the opening of the first formal audience. Henry is still **Romanorum Rex**, not yet Imperator; Mesopotamites addresses him by that precise title in public, immediately testing the transferability of Frederick's imperial recognition and Henry's Roman pretensions.
+- Ch111 resolves the first public duel: Henry challenges the inherited Two-Romes formula by asking whether Alexios may be styled merely "Emperor of Constantinople." Mesopotamites answers with Frederick's own public recognition of Alexios before men who fought in the crusade. Mesopotamites wins the immediate protocol exchange, while Henry demonstrates that he will not simply inherit his father's accommodation unchanged.
+- In the private audience Henry explicitly asserts Sicily as Constance's hereditary right and demands a Byzantine non-intervention commitment. Mesopotamites refuses to provide one. Each side learns what it needs: Rome concludes Henry will attack Sicily, while Henry concludes Alexios is watching it.
+- Back in Constantinople Alexios orders Skepsis to watch Germany, the papacy, Genoa, Pisa, southern Italy, Sicily and Venice together. He judges that the **entire Norman kingdom cannot be saved** and adopts a narrower plan: preserve the Sicilian island and the William III/Sibylla regime if possible.
+- Alexios orders the old Sicilian contact network used to warn Sibylla to prepare evacuation from mainland danger, contact Margaritus of Brindisi, guarantee the boy king's safety with Roman naval power, and retain evacuation to the Roman Empire as a worst-case contingency.
+- Roman diplomacy will raise the cost of Genoese/Pisan/Venetian support for Henry by reminding the maritime republics of Roman commercial privileges, inter-city rivalry and the prospect of direct conflict with the Roman fleet.
+- Alexios explicitly notes that this timeline lacks the historical Richard I ransom windfall that helped finance Henry's 1194 Sicilian push. He therefore forecasts an **unsatisfactory stalemate** in which Henry may secure mainland southern Italy but fail to cross to Sicily. This is a strategic forecast only, **not yet a realized outcome**.
+- Ch111 closes by turning from external rivalry to military institutions. The **Polemiki Scholi / 폴레미키 스홀리** has an imminent opening ceremony; Theodoros Laskaris and the concept later recognizable as a staff system are described as seeds of a new Roman military order. The school opening, curriculum and full staff institution are **not yet shown on-page**.
 
 ### Current character positions
-- **Alexios II:** mourns Frederick genuinely but treats Henry as a likely strategic rival; refuses premature covert use of Frederick VI.
-- **Henry VI:** inherits the machinery and resentments of Frederick's reforms; is presented as young, disciplined, cold, intelligent and politically dangerous. Imperial coronation has not yet occurred in this timeline.
-- **Frederick VI of Swabia:** loyal younger brother and crusade hero whose personal lack of ambition does not reduce his objective value to discontented princes.
-- **Konstantinos Mesopotamites:** envoy, intelligence assessor and diplomatic duelist; begins the Henry relationship by withholding the imperial title without violating formal accuracy.
+- **Alexios II:** accepts that preserving the whole Norman kingdom is unrealistic; chooses a limited sea-denial strategy centered on Sicily while preparing a longer Two-Romes contest. He also pivots toward systematic military education and staff functions rather than dependence on exceptional commanders alone.
+- **Henry VI:** inherits the machinery and resentments of Frederick's reforms; is young, cold, intelligent and dangerous. He openly asserts Constance's Sicilian right, wants Roman imperial coronation, and refuses to treat Frederick's Two-Romes settlement as automatically binding, but his ultimate sole-Rome objective is not yet proven.
+- **Frederick VI of Swabia:** loyal younger brother and crusade hero whose personal lack of ambition does not reduce his objective value to discontented princes; still not confined on-page.
+- **Konstantinos Mesopotamites:** wins the initial protocol contest without overplaying it, refuses a non-intervention pledge over Sicily, and returns with confirmation that Henry intends to move south.
+- **Dimitrios Tornikes:** tasked with integrated surveillance of Germany, papacy, maritime republics, southern Italy and Sicily as the western crisis becomes a single strategic theater.
 
 ### Active future pressures already seeded
-- Henry's response to the `Romanorum Rex` titulature challenge and the future terms of recognition between the Two Romes.
-- Henry's Sicilian claim after Frederick's death and Alexios's balance-of-power response.
+- Henry's imperial coronation and the future terms of recognition between the Two Romes.
+- Henry's Sicilian campaign and whether Roman naval deterrence can keep him off the island.
 - Whether princely resentment around Frederick VI becomes mediation, confinement, open coalition or civil conflict.
 - Dandolo + Henry / Western imperial coordination against Roman commercial expansion.
 - Papal leverage over Henry's imperial coronation and fear of a Hohenstaufen Germany–Sicily combination.
+- Genoese/Pisan/Venetian calculations over commercial privilege versus naval support for Henry.
+- Development of the Polemiki Scholi, Theodoros Laskaris, and the embryonic Roman staff system.
 - Ayyubid post-Saladin succession.
 - Balsamon/Church anxiety over secular political Roman identity and the planned Christianized Olympia.
 - Whether institutions Alexios created can meaningfully restrain his heirs and eventually Alexios himself.
