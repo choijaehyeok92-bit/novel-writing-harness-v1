@@ -1,4 +1,4 @@
-# Arc Canon Through Chapter 111
+# Arc Canon Through Chapter 112
 
 ## Arc 1 — Survival, Regency, Andronikos (ch1–26) — COMPLETED
 
@@ -108,14 +108,22 @@ With Frederick Barbarossa dead, can the limited Two-Romes accommodation survive 
 - Alexios orders the old Sicilian contact network used to warn Sibylla to prepare evacuation from mainland danger, contact Margaritus of Brindisi, guarantee the boy king's safety with Roman naval power, and retain evacuation to the Roman Empire as a worst-case contingency.
 - Roman diplomacy will raise the cost of Genoese/Pisan/Venetian support for Henry by reminding the maritime republics of Roman commercial privileges, inter-city rivalry and the prospect of direct conflict with the Roman fleet.
 - Alexios explicitly notes that this timeline lacks the historical Richard I ransom windfall that helped finance Henry's 1194 Sicilian push. He therefore forecasts an **unsatisfactory stalemate** in which Henry may secure mainland southern Italy but fail to cross to Sicily. This is a strategic forecast only, **not yet a realized outcome**.
-- Ch111 closes by turning from external rivalry to military institutions. The **Polemiki Scholi / 폴레미키 스홀리** has an imminent opening ceremony; Theodoros Laskaris and the concept later recognizable as a staff system are described as seeds of a new Roman military order. The school opening, curriculum and full staff institution are **not yet shown on-page**.
+- Ch111 closes by turning from external rivalry to military institutions. The **Polemiki Scholi / 폴레미키 스홀리** is about to open; Theodoros Laskaris and the concept later recognizable as a staff system are described as seeds of a new Roman military order.
+- Ch112 formally opens the **Polemiki Scholi**, whose full name is **Basiliki Scholi tis Polemikis Technis / 바실리키 스홀리 티스 폴레미키스 테흐니스**. Alexios explicitly defines its purpose as creating a military that shares common lessons and doctrine rather than depending on isolated great commanders, bloodline or inherited networks.
+- Three education tracks are now established: a four-year regular course for entrants roughly age 15–19; a 12–18 month special course for young serving officers; and an approximately ten-month senior command-and-staff course for proven officers. Alexios personally presides over the first senior cohort's curriculum.
+- Admission is legally open to every Roman eligible for military service, including Turkic Romans and Muslims. Orthodox theology is taught as knowledge of the imperial religious-political order rather than compulsory conversion; commissioned graduates are treated as having fulfilled military service and receive exemption from the established religious poll tax. No Muslim or Turkic entrant passes in the first intake.
+- **Theodoros Laskaris** becomes the first intake's top entrant, demonstrating strength in arithmetic, literacy/composition, judgment, physical fitness and horsemanship.
+- The regular course is staged from basic officer literacy/field life through small-unit command and logistics, then combined-arms and foreign-army study, and finally strategy, campaign analysis, operational planning, higher logistics, intelligence synthesis, written orders, military law and command.
+- Fourth-year cadets are to spend 8–10 weeks attached to real tagmata. Graduation assessment includes operational-map/planning work, oral defense against faculty criticism and a board-based war game incorporating terrain, hidden information, reconnaissance, delayed communications and supply disruption.
+- Ch112 ends as experienced commanders including **Alexios Gidos** and **Kaloyan** assemble for the first **Anotera Taxis tis Polemikis Scholis**, commonly **Taxis ton Strategon**. The institution establishes senior staff education, but a fully developed modern General Staff organization is **not yet established on-page**.
 
 ### Current character positions
-- **Alexios II:** accepts that preserving the whole Norman kingdom is unrealistic; chooses a limited sea-denial strategy centered on Sicily while preparing a longer Two-Romes contest. He also pivots toward systematic military education and staff functions rather than dependence on exceptional commanders alone.
+- **Alexios II:** accepts that preserving the whole Norman kingdom is unrealistic; chooses a limited sea-denial strategy centered on Sicily while preparing a longer Two-Romes contest. At home he has now moved military professionalization from plan to institution by opening the Polemiki Scholi and personally presiding over the first senior command-and-staff cohort.
 - **Henry VI:** inherits the machinery and resentments of Frederick's reforms; is young, cold, intelligent and dangerous. He openly asserts Constance's Sicilian right, wants Roman imperial coronation, and refuses to treat Frederick's Two-Romes settlement as automatically binding, but his ultimate sole-Rome objective is not yet proven.
 - **Frederick VI of Swabia:** loyal younger brother and crusade hero whose personal lack of ambition does not reduce his objective value to discontented princes; still not confined on-page.
 - **Konstantinos Mesopotamites:** wins the initial protocol contest without overplaying it, refuses a non-intervention pledge over Sicily, and returns with confirmation that Henry intends to move south.
 - **Dimitrios Tornikes:** tasked with integrated surveillance of Germany, papacy, maritime republics, southern Italy and Sicily as the western crisis becomes a single strategic theater.
+- **Theodoros Laskaris:** first-intake top entrant at the Polemiki Scholi and the first named exemplar of the new professional officer pipeline.
 
 ### Active future pressures already seeded
 - Henry's imperial coronation and the future terms of recognition between the Two Romes.
@@ -124,9 +132,9 @@ With Frederick Barbarossa dead, can the limited Two-Romes accommodation survive 
 - Dandolo + Henry / Western imperial coordination against Roman commercial expansion.
 - Papal leverage over Henry's imperial coronation and fear of a Hohenstaufen Germany–Sicily combination.
 - Genoese/Pisan/Venetian calculations over commercial privilege versus naval support for Henry.
-- Development of the Polemiki Scholi, Theodoros Laskaris, and the embryonic Roman staff system.
+- How the **Taxis ton Strategon** evolves from staff education into actual staff organization, and how the academy's doctrine is integrated into field command and any later tagmata reorganization.
 - Ayyubid post-Saladin succession.
-- Balsamon/Church anxiety over secular political Roman identity and the planned Christianized Olympia.
+- Balsamon/Church anxiety over secular political Roman identity, Muslim eligibility for officer education, and the planned Christianized Olympia.
 - Whether institutions Alexios created can meaningfully restrain his heirs and eventually Alexios himself.
 - Social consequences of credit growth, banking concentration, dynatoi capitalism and regional winners/losers.
 - Integration backlash from both Orthodox Romans and newly subjected Muslim/Turkic populations.
