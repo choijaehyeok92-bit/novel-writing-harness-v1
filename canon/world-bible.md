@@ -1,6 +1,6 @@
 # World Bible
 
-> Canon state through manuscript chapter 108. `ESTABLISHED` means enacted/on-page. `PLANNED` means Alexios has discussed or designed it but the manuscript has not yet established full implementation. Author-locked transition facts for chapter 109 may also be recorded where explicitly marked.
+> Canon state through manuscript chapter 112. `ESTABLISHED` means enacted/on-page. `PLANNED` means Alexios has discussed or designed it but the manuscript has not yet established full implementation.
 
 ## Political system
 
@@ -93,7 +93,7 @@ The reorganized central government contains a permanent **Megas Logothetes** coo
 - Church institutions can challenge imperial policy through law and canon reasoning; Alexios generally answers by written legal distinction rather than simply silencing them.
 - After Jerusalem, Alexios protects Muslim worship at the holy places; this raises tension with Balsamon but the emperor's status as recoverer of the Holy City gives him unusual room.
 
-## Roman identity and subject status — ESTABLISHED by chapters 100–101, culturally reinforced by ch108
+## Roman identity and subject status — ESTABLISHED by chapters 100–101, culturally reinforced by ch108 and institutionally extended by ch112
 
 - "Roman" is deliberately redefined as an overarching **political** category capable of including ethnic/religious outsiders who are governed by Roman law, pay Roman taxes, receive Roman protection, and owe Roman loyalty.
 - Orthodoxy is no longer a necessary condition for the broad political label "Roman."
@@ -103,6 +103,7 @@ The reorganized central government contains a permanent **Megas Logothetes** coo
 - This distinction allows Muslim craftsman **유수프 빈 이브라힘 알라디키** (표기 변형 `알라다키` 존재; terminology finding open) to be recognized as Roman and protected/promoted without declaring Islam equivalent to Orthodoxy.
 - This remains politically controversial in Constantinople and is an active integration project, not a settled modern equality regime.
 - Chapter 108 shows the cultural/public side of the policy: Alexios publicly describes a mixed Greek/Turkic Anatolikon team as demonstrating what Rome is, and a Constantinopolitan crowd later chants the name of Muslim Turkic race winner Kutlu Arslan. This is evidence of real popular-cultural incorporation in the moment, **not** proof that anti-Turkic or anti-Muslim prejudice has disappeared.
+- Chapter 112 extends political Roman identity into officer recruitment: the Polemiki Scholi is legally open to every Roman eligible for military service, including Turkic Romans and Muslims. Orthodox theology is taught as knowledge of the empire's religious and political order rather than as compulsory conversion. Commissioned graduates are treated as having fulfilled military service and receive exemption from the established religious poll tax. No Muslim or Turkic entrant is admitted in the first intake, so legal openness has not yet produced a religiously mixed officer corps on-page.
 
 ## Military
 
@@ -128,9 +129,15 @@ The reorganized central government contains a permanent **Megas Logothetes** coo
 - Alexios sponsors lower, projecting, mutually supporting fortress designs inspired by later bastioned logic, first at strategic fronts such as Dyrrachium.
 - Treat as an accelerated alternate-history development, not as literal full mature trace italienne everywhere.
 
-### Military professionalization — MIXED
-- ESTABLISHED: payroll/records, merit recruitment, standardized training, combined arms, logistics, state workshops, improved communications.
-- PLANNED / NOT YET FULLY ESTABLISHED: academy/staff-college/general-staff style institutions discussed after the crusade.
+### Military professionalization — ESTABLISHED THROUGH CH112 / STAFF ORGANIZATION STILL DEVELOPING
+- ESTABLISHED before ch112: payroll/records, merit recruitment, standardized training, combined arms, logistics, state workshops, improved communications.
+- Chapter 112 establishes the operating **Polemiki Scholi**, formally **Basiliki Scholi tis Polemikis Technis / 바실리키 스홀리 티스 폴레미키스 테흐니스**, as a permanent officer-education institution intended to create a common corpus of lessons and doctrine rather than rely on isolated gifted commanders or inherited military networks.
+- Three tracks are established: a **four-year regular course** for entrants roughly age 15–19; a **12–18 month special course** for young serving officers to spread the new system rapidly; and an approximately **ten-month senior command-and-staff course** for proven officers.
+- The first regular intake is selected through examinations emphasizing arithmetic/logistical calculation as well as literacy/composition, judgment, physical fitness and horsemanship. **Theodoros Laskaris** is the first intake's top entrant.
+- Regular-course progression is established on-page: year 1 basic literacy/rhetoric, mathematics, history, religion/ethics, military fundamentals, weapons and field life; year 2 small-unit command, terrain/surveying/maps, logistics, administration, medicine, field fortification, communications and discipline; year 3 combined-arms study including infantry, cavalry, Tourkopouloi, gunpowder, engineers, large-scale logistics, intelligence, foreign militaries, naval basics and war economics; year 4 strategy, campaign history, advanced tactics, military geography, operational planning, higher logistics, intelligence synthesis, written orders, military law and command.
+- Fourth-year cadets are to spend **8–10 weeks attached to actual tagmata**. Instructors do not make decisions for them; planning, orders and explanation of outcomes are evaluated. Graduation exercises include written operational planning, oral defense against faculty criticism, and a board-based war game modeling terrain, hidden information, reconnaissance, delayed messages and supply disruption.
+- The senior course is formally **Anotera Taxis tis Polemikis Scholis / 아노테라 탁시스 티스 폴레미키스 스홀리스**, commonly **Taxis ton Strategon / 탁시스 톤 스트라티곤**. Alexios personally presides over the first cohort's curriculum; experienced commanders including Alexios Gidos and Kaloyan are present at its opening.
+- **Guardrail:** chapter 112 establishes a staff-education institution and a doctrine of systematic planning, but **does not yet establish a fully formed modern General Staff, permanent G-staff structure, or completed army-wide tagmata reorganization**. Those remain future institutional development unless later manuscript enacts them.
 
 ## Economy and finance
 
@@ -190,7 +197,7 @@ The reorganized central government contains a permanent **Megas Logothetes** coo
 ### Serbia — ESTABLISHED
 - Stefan Nemanja submits after the Norman-war settlement; obligations/hostage arrangements restore Roman leverage rather than immediate direct annexation.
 
-### Holy Roman Empire — ESTABLISHED THROUGH CH108 + AUTHOR-LOCKED CH109 TRANSITION
+### Holy Roman Empire — ESTABLISHED THROUGH CH111
 - Frederick Barbarossa and Alexios recognize a carefully negotiated "Two Romes" modus vivendi and conduct a joint crusade while remaining rival emperors with separate churches and states.
 - Barbarossa survives the historical Saleph disaster and returns west with the prestige of a successful crusading emperor and recoverer of the Holy City.
 - Post-crusade Frederick deliberately accelerates western imperial consolidation because he judges that the western empire will otherwise fall increasingly behind Alexios's Roman state. He delegates much of the practical execution to Henry VI so that Henry acquires governing authority before succession.
@@ -201,6 +208,7 @@ The reorganized central government contains a permanent **Megas Logothetes** coo
 - Henry VI carries out much of the reform implementation and therefore inherits both real administrative authority and personal resentment from affected princes.
 - **LOCKED DATE:** Frederick dies in spring **1194, several weeks before Constantinople's founding-day festival**. His death predates the ch106–108 festival even though Constantinople has not yet reacted to the news on-page; travel/reporting delay accounts for the later receipt of the death notice.
 - After Frederick's death, Henry inherits the strengthened western imperial machinery but not Frederick's unique personal authority. Western internal resistance and the Sicilian inheritance question therefore become immediate strategic pressures, while Henry is not personally bound by Frederick and Alexios's battlefield fraternity.
+- By chapters 110–111 Henry remains **Romanorum Rex**, not yet Imperator in this altered timeline. He challenges automatic inheritance of Frederick's Two-Romes accommodation and explicitly asserts Constance's Sicilian claim; Roman policy responds with a limited sea-denial plan centered on preserving the island and minor William III regime if possible. The predicted outcome remains unconfirmed.
 
 ### Rum Sultanate / Anatolia — ESTABLISHED
 - Kilij Arslan II does not follow the same historical fragmentation path; he resists the crusading-Roman coalition.
