@@ -1,4 +1,4 @@
-# Arc Canon Through Chapter 112
+# Arc Canon Through Chapter 113
 
 ## Arc 1 — Survival, Regency, Andronikos (ch1–26) — COMPLETED
 
@@ -83,10 +83,10 @@ Can a state built by one extraordinary emperor survive dynastic succession, fina
 ### Character result
 Alexios demonstrates that legal integration can be reinforced by shared popular culture, but the regime has not solved the deeper religious, ethnic, regional and class conflicts created by expansion.
 
-## Arc 5 — After Barbarossa / Western Succession Rivalry (ch109–CURRENT) — CURRENT
+## Arc 5 — After Barbarossa / Western Succession Rivalry and Sicilian War (ch109–CURRENT) — CURRENT
 
 ### Core question
-With Frederick Barbarossa dead, can the limited Two-Romes accommodation survive a colder Hohenstaufen successor while both empires compete for Roman legitimacy, Sicily, technology and Mediterranean power?
+With Frederick Barbarossa dead, can the limited Two-Romes accommodation survive a colder Hohenstaufen successor while both empires compete for Roman legitimacy, Sicily, technology and Mediterranean power — and can Alexios's institutional reforms survive their first strategic test?
 
 ### Locked beats
 - Ch109 opens with the second-order effects of the imperial sports festival: fandom, sponsorship interest, horse-breeding incentives, more Turkic submissions, merchandising and a mature print ecosystem.
@@ -99,7 +99,6 @@ With Frederick Barbarossa dead, can the limited Two-Romes accommodation survive 
 - Ch110 establishes Frederick's burial at **Speyer Cathedral** beside Beatrice. Alexios's mourning mission later places a silver-plated perpetual lamp at the tomb with a bilingual dedication recognizing Frederick as the western Imperator and Jerusalem comrade.
 - **Frederick VI, Duke of Swabia, survives** his historical death and is established as a crusade hero, personally loyal to Henry and without overt throne ambition.
 - Major princes visibly show Frederick VI unusual warmth, including Adolf of Altena, Hermann I of Thuringia, Henry I of Brabant, Henry III of Limburg and Albert I of Meissen. The manuscript frames this as a political signal against Henry's centralizing line, making Frederick an objective focal point whether he wants the role or not.
-- Alexios predicts Henry will eventually confine Frederick rather than kill him, because execution would create a martyr and opposition banner. This is **prediction only; no confinement has yet happened on-page**.
 - Mesopotamites deliberately does not recruit or contact Frederick as a Byzantine proxy. Alexios judges premature intervention would expose Byzantine intent and could provoke Henry into eliminating his brother.
 - Ch110 ends at the opening of the first formal audience. Henry is still **Romanorum Rex**, not yet Imperator; Mesopotamites addresses him by that precise title in public, immediately testing the transferability of Frederick's imperial recognition and Henry's Roman pretensions.
 - Ch111 resolves the first public duel: Henry challenges the inherited Two-Romes formula by asking whether Alexios may be styled merely "Emperor of Constantinople." Mesopotamites answers with Frederick's own public recognition of Alexios before men who fought in the crusade. Mesopotamites wins the immediate protocol exchange, while Henry demonstrates that he will not simply inherit his father's accommodation unchanged.
@@ -107,32 +106,40 @@ With Frederick Barbarossa dead, can the limited Two-Romes accommodation survive 
 - Back in Constantinople Alexios orders Skepsis to watch Germany, the papacy, Genoa, Pisa, southern Italy, Sicily and Venice together. He judges that the **entire Norman kingdom cannot be saved** and adopts a narrower plan: preserve the Sicilian island and the William III/Sibylla regime if possible.
 - Alexios orders the old Sicilian contact network used to warn Sibylla to prepare evacuation from mainland danger, contact Margaritus of Brindisi, guarantee the boy king's safety with Roman naval power, and retain evacuation to the Roman Empire as a worst-case contingency.
 - Roman diplomacy will raise the cost of Genoese/Pisan/Venetian support for Henry by reminding the maritime republics of Roman commercial privileges, inter-city rivalry and the prospect of direct conflict with the Roman fleet.
-- Alexios explicitly notes that this timeline lacks the historical Richard I ransom windfall that helped finance Henry's 1194 Sicilian push. He therefore forecasts an **unsatisfactory stalemate** in which Henry may secure mainland southern Italy but fail to cross to Sicily. This is a strategic forecast only, **not yet a realized outcome**.
-- Ch111 closes by turning from external rivalry to military institutions. The **Polemiki Scholi / 폴레미키 스홀리** is about to open; Theodoros Laskaris and the concept later recognizable as a staff system are described as seeds of a new Roman military order.
-- Ch112 formally opens the **Polemiki Scholi**, whose full name is **Basiliki Scholi tis Polemikis Technis / 바실리키 스홀리 티스 폴레미키스 테흐니스**. Alexios explicitly defines its purpose as creating a military that shares common lessons and doctrine rather than depending on isolated great commanders, bloodline or inherited networks.
-- Three education tracks are now established: a four-year regular course for entrants roughly age 15–19; a 12–18 month special course for young serving officers; and an approximately ten-month senior command-and-staff course for proven officers. Alexios personally presides over the first senior cohort's curriculum.
+- Alexios explicitly notes that this timeline lacks the historical Richard I ransom windfall that helped finance Henry's 1194 Sicilian push. He therefore forecasts an **unsatisfactory stalemate** in which Henry may secure mainland southern Italy but fail to cross to Sicily. This remains a strategic forecast; chapter 113 begins the war but does not yet confirm that outcome.
+- Ch112 formally opens the **Polemiki Scholi**, whose full name is **Basiliki Scholi tis Polemikis Technis / 바실리키 스홀리 티스 폴레미키스 테흐니스**. Alexios defines its purpose as creating a military that shares common lessons and doctrine rather than depending on isolated great commanders, bloodline or inherited networks.
+- Three education tracks are established: a four-year regular course for entrants roughly age 15–19; a 12–18 month special course for young serving officers; and an approximately ten-month senior command-and-staff course for proven officers. Alexios personally presides over the first senior cohort's curriculum.
 - Admission is legally open to every Roman eligible for military service, including Turkic Romans and Muslims. Orthodox theology is taught as knowledge of the imperial religious-political order rather than compulsory conversion; commissioned graduates are treated as having fulfilled military service and receive exemption from the established religious poll tax. No Muslim or Turkic entrant passes in the first intake.
 - **Theodoros Laskaris** becomes the first intake's top entrant, demonstrating strength in arithmetic, literacy/composition, judgment, physical fitness and horsemanship.
-- The regular course is staged from basic officer literacy/field life through small-unit command and logistics, then combined-arms and foreign-army study, and finally strategy, campaign analysis, operational planning, higher logistics, intelligence synthesis, written orders, military law and command.
-- Fourth-year cadets are to spend 8–10 weeks attached to real tagmata. Graduation assessment includes operational-map/planning work, oral defense against faculty criticism and a board-based war game incorporating terrain, hidden information, reconnaissance, delayed communications and supply disruption.
-- Ch112 ends as experienced commanders including **Alexios Gidos** and **Kaloyan** assemble for the first **Anotera Taxis tis Polemikis Scholis**, commonly **Taxis ton Strategon**. The institution establishes senior staff education, but a fully developed modern General Staff organization is **not yet established on-page**.
+- Ch113 shows the **Taxis ton Strategon** in actual operation. Its instruction covers Roman military history, Alexios's `전쟁론`, politics and war, imperial administration, taxation/mobilization, military law, war finance, logistics, Skepsis intelligence analysis and high command.
+- A four-month continuous hypothetical war exercise forces officers to respond to changing operational and political conditions rather than solve isolated problems. Gidos and Kaloyan give contrasting solutions, argue over them and later absorb one another's methods; the final two months use specialist tracks and large red/blue team exercises.
+- Ch113 establishes the **Sekreton tou Stratopedou / 세크레톤 투 스트라토페두** as a field-headquarters staff framework with six functions: personnel/rolls, intelligence, operations, logistics, engineering/weapons, and documents/communications. The explicit principle is that the commander decides while staff officers make the consequences of that decision visible and executable.
+- Ch113 also establishes a standardized tagma structure. Small groups of roughly 10–12 build toward 50–60 and 100–120 groupings; an **allagion** is roughly 300–400; a **tagma** roughly 900–1,200. Several branch-centered tagmata can be combined in wartime into a **megas tagma** of roughly 3,000–4,500 as a combined-arms field grouping, while multiple megala tagmata form a **stratopedon** of roughly 8,000–15,000.
+- The reformed standing central force is currently stated as roughly **eight tagmata / about 10,000 men**. Planning documents forecast, but do not yet achieve, **15–18 tagmata / roughly 20,000 standing troops around 1200**.
+- Officer qualification transition is staged rather than an immediate purge: for four years Polemiki Scholi graduates receive promotion advantage; later tagma deputy-command and above is intended to require regular or serving-officer education; from 1205 the announced policy is that megas-tagma-level commanders and imperial direct operations staff normally complete the Taxis ton Strategon. These future thresholds remain plans until enacted.
+- Alexios explicitly defines the strategic thesis of the reform as **institutional quality rather than gunpowder monopoly**: `진정한 차이는 화약이 아니라는 걸.`
+- By ch113 Henry has now received imperial coronation and is explicitly **Imperator**. The exact coronation date is not supplied on-page; the text states only that obtaining it required struggle with the papacy.
+- **Frederick VI is now actually confined by Henry.** Henry acknowledges that Frederick is personally innocent and that no incriminating conspiracy exists; he confines him because Frederick's freedom lets discontented princes organize around a popular crusade hero and alternate Hohenstaufen focal point. Frederick's relationship with Alexios is acknowledged as an additional factor.
+- Learning of the confinement, Alexios concludes that the expected escalation has begun and orders Sicily warned to prepare for war.
+- Henry then orders his **ministeriales, imperial knights and major princes** summoned and commands an invasion of Sicily to recover Constance's claim. **Chapter 113 ends with the Sicilian war beginning.** The campaign outcome and the broader Two-Romes war remain unresolved.
 
 ### Current character positions
-- **Alexios II:** accepts that preserving the whole Norman kingdom is unrealistic; chooses a limited sea-denial strategy centered on Sicily while preparing a longer Two-Romes contest. At home he has now moved military professionalization from plan to institution by opening the Polemiki Scholi and personally presiding over the first senior command-and-staff cohort.
-- **Henry VI:** inherits the machinery and resentments of Frederick's reforms; is young, cold, intelligent and dangerous. He openly asserts Constance's Sicilian right, wants Roman imperial coronation, and refuses to treat Frederick's Two-Romes settlement as automatically binding, but his ultimate sole-Rome objective is not yet proven.
-- **Frederick VI of Swabia:** loyal younger brother and crusade hero whose personal lack of ambition does not reduce his objective value to discontented princes; still not confined on-page.
-- **Konstantinos Mesopotamites:** wins the initial protocol contest without overplaying it, refuses a non-intervention pledge over Sicily, and returns with confirmation that Henry intends to move south.
-- **Dimitrios Tornikes:** tasked with integrated surveillance of Germany, papacy, maritime republics, southern Italy and Sicily as the western crisis becomes a single strategic theater.
+- **Alexios II:** has moved from officer education into actual staff and force-structure reform. He is preparing Sicily while deliberately designing a military whose qualitative advantage comes from education, common doctrine, planning, records, logistics and staff work rather than a permanent monopoly on gunpowder.
+- **Henry VI:** now crowned Imperator; cold, capable and increasingly willing to subordinate family relationships to dynastic security. He has confined Frederick VI despite acknowledging his innocence and has ordered the Sicilian invasion.
+- **Frederick VI of Swabia:** remains personally loyal to Henry and innocent of conspiracy, but is now confined because other princes can use him as an alternative Hohenstaufen rallying point.
+- **Konstantinos Mesopotamites:** earlier established that Henry would press the Sicilian claim and refused a Roman non-intervention pledge; ch113 confirms that assessment.
+- **Dimitrios Tornikes:** brings Alexios the report of Frederick VI's confinement, triggering immediate warning to Sicily.
 - **Theodoros Laskaris:** first-intake top entrant at the Polemiki Scholi and the first named exemplar of the new professional officer pipeline.
+- **Alexios Gidos / Kaloyan:** first senior-command cohort exemplars whose contrasting operational styles are deliberately made to collide and cross-pollinate through the Taxis ton Strategon.
 
 ### Active future pressures already seeded
-- Henry's imperial coronation and the future terms of recognition between the Two Romes.
-- Henry's Sicilian campaign and whether Roman naval deterrence can keep him off the island.
-- Whether princely resentment around Frederick VI becomes mediation, confinement, open coalition or civil conflict.
+- The opening campaign of Henry's Sicilian war and whether Roman naval deterrence can preserve William III's island regime.
+- The exact diplomatic consequences of Henry's imperial coronation for papal policy and Two-Romes recognition.
+- Whether princely resentment around the now-confined Frederick VI becomes mediation, demands for release, coalition-building or civil conflict.
 - Dandolo + Henry / Western imperial coordination against Roman commercial expansion.
-- Papal leverage over Henry's imperial coronation and fear of a Hohenstaufen Germany–Sicily combination.
 - Genoese/Pisan/Venetian calculations over commercial privilege versus naval support for Henry.
-- How the **Taxis ton Strategon** evolves from staff education into actual staff organization, and how the academy's doctrine is integrated into field command and any later tagmata reorganization.
+- How the new **Sekreton tou Stratopedou** performs under actual campaign pressure, and whether megas-tagma/stratopedon combined-arms organization works outside exercises.
+- Whether the planned 1200/1205 force and qualification thresholds can actually be funded and enforced.
 - Ayyubid post-Saladin succession.
 - Balsamon/Church anxiety over secular political Roman identity, Muslim eligibility for officer education, and the planned Christianized Olympia.
 - Whether institutions Alexios created can meaningfully restrain his heirs and eventually Alexios himself.
