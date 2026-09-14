@@ -15,7 +15,7 @@
 - **Death timing — LOCKED:** Frederick dies in **spring 1194, several weeks before Constantinople's founding-day festival**, at Nuremberg.
 - On his deathbed he instructs Henry to secure his Sicilian rights. Frederick sees Sicily as a separate dynastic resource that could reduce Hohenstaufen dependence on imperial princes and strengthen the western empire against Constantinople. His final dynastic formula is **"Rome to the Hohenstaufen."**
 - Frederick is buried at **Speyer Cathedral beside Beatrice**. Alexios later sends a silver-plated perpetual lamp with a Greek/Latin dedication to "Frederick, Imperator of the West" and his Jerusalem comrade.
-- Current status through chapter 111: **deceased**. His death removes the personal authority that had suppressed contradictions created by his reforms and transfers both the strengthened imperial machinery and its accumulated opposition to Henry VI.
+- Current status: **deceased**. His death removes the personal authority that had suppressed contradictions created by his reforms and transfers both the strengthened imperial machinery and its accumulated opposition to Henry VI.
 
 ## Henry VI
 
@@ -23,39 +23,45 @@
 - Before Frederick's death, Henry is the principal executor of much of the western centralization program. This gives him genuine administrative authority and competence but also causes many princes to associate the burdens and intrusions of reform directly with him.
 - Inherits a stronger imperial apparatus and a stronger Hohenstaufen succession expectation, but also an unstable bargain: great princes have obtained hereditary/security concessions at the same time that imperial authority has expanded.
 - His immediate strategic problem after Frederick's death is to prove that the system depended on the dynasty rather than on Frederick's personal charisma. This makes decisive external success, especially the Sicilian inheritance claim through Constance, unusually attractive.
-- Relationship with Constantinople is not bound by Frederick and Alexios's personal battlefield fraternity. Henry is therefore positioned to redefine the Two Romes arrangement in a colder and more competitive direction.
-- **Status through chapter 111:** Henry is still **Romanorum Rex / King of the Romans**, not yet Imperator in this timeline. Konstantinos Mesopotamites deliberately greets him with that exact title rather than automatically transferring Frederick's imperial recognition.
-- In chapter 111 Henry openly tests the Two-Romes settlement by asking whether Alexios may be styled merely **"Emperor of Constantinople."** Mesopotamites answers by invoking Frederick's public recognition of Alexios before crusade veterans. Henry therefore reveals that he will not simply inherit his father's accommodation unchanged, though this does **not yet conclusively establish** a final policy of sole-Rome exclusivity.
-- Henry explicitly states in private that **Sicily is his wife's right** and presses Mesopotamites for a Byzantine non-intervention commitment. Mesopotamites refuses. Rome consequently treats a Hohenstaufen attack on Sicily as expected.
-- Presentation by chapter 111: young, controlled, intellectually sharp, physically leaner and more delicate than his father, and politically dangerous. Mesopotamites judges him highly capable but less practiced than Frederick at concealing ambition behind public accommodation.
+- Relationship with Constantinople is not bound by Frederick and Alexios's personal battlefield fraternity. Henry therefore moves to redefine the Two Romes arrangement in a colder and more competitive direction.
+- **Status change by chapter 113:** Henry has now received imperial coronation and is explicitly styled **Imperator** in the manuscript. Chapter 113 states that obtaining the coronation required struggle with the papacy but does not supply an exact coronation date; do not invent one without later manuscript support.
+- Earlier, while still Romanorum Rex, Henry publicly tested the Two-Romes settlement by asking whether Alexios might be styled merely **"Emperor of Constantinople."** Mesopotamites answered by invoking Frederick's public recognition of Alexios before crusade veterans.
+- Henry explicitly holds that **Sicily is Constance's hereditary right**. By chapter 113 he moves from claim to action, ordering ministeriales, imperial knights and major princes summoned for an invasion of Sicily.
+- Chapter 113 also shows Henry confining his younger brother Frederick VI. Henry explicitly acknowledges Frederick's innocence and the absence of proof of treason; the confinement is preventive politics. Frederick's freedom lets discontented princes gather around a crusade hero and alternative Hohenstaufen focal point, and Henry also cites Frederick's closeness to Alexios as a factor.
+- Henry's stated logic is that political usefulness, not Frederick's own intention, makes him dangerous. He presents confinement as protection from a situation that might otherwise end in assassination.
+- Presentation: young, controlled, intellectually sharp, physically leaner and more delicate than his father, politically dangerous, and willing to subordinate kinship to dynastic security.
 
 ## Frederick VI, Duke of Swabia — CONFIRMED ALT-HISTORY SURVIVOR
 
 - Historical baseline diverges: Frederick VI survives the crusade-era death that removed him historically and returns as a **crusade hero** and Duke of Swabia.
-- He is Henry VI's younger brother and, by chapter 111, displays **personal loyalty to Henry and no overt ambition for the throne**.
+- He is Henry VI's younger brother and displays **personal loyalty to Henry and no overt ambition for the throne**.
 - His lack of ambition does not remove his objective political value. Major princes visibly treat him with unusual warmth after Barbarossa's funeral, making him an alternative Hohenstaufen focal point against Henry's centralizing line whether he desires that role or not.
 - Named princes visibly associated with this signal include **Adolf of Altena (Archbishop of Cologne), Hermann I of Thuringia, Henry I of Brabant, Henry III of Limburg, and Albert I of Meissen**.
-- Alexios predicts that Henry will eventually confine Frederick rather than execute him, because killing him would create a martyr and opposition banner. **This is prediction only: Frederick has not yet been confined on-page by the end of chapter 111.**
-- Alexios explicitly orders Mesopotamites **not** to cultivate Frederick as a Byzantine proxy at this stage; premature contact could expose Roman intent and provoke Henry into eliminating his brother.
+- Alexios previously predicted that Henry would eventually confine Frederick rather than execute him because killing him would create a martyr and opposition banner.
+- **Chapter 113 fulfills that prediction:** Frederick is now actually confined by Henry. He protests that he has never betrayed his brother and invokes aristocratic honor in refusing to hand over harmless correspondence. Henry answers that he knows Frederick is innocent but that Frederick's freedom itself allows opposition to organize around him.
+- Frederick specifically asks whether his closeness to the eastern Basileus is a cause; Henry answers that it is one factor.
+- Current status: **confined but alive, personally loyal to Henry, politically valuable to Henry's opponents despite his own unwillingness to rebel**.
 
 ## William III of Sicily / Guglielmo III
 
 - Minor son of Tancred; succeeds after the deaths of elder brother Roger and father Tancred.
-- By chapter 111 he is a **child king** whose regime is judged by Roman intelligence to be too weak to preserve the entire mainland-and-island kingdom against Henry VI.
-- Alexios does not plan to conquer Sicily. His current objective is to preserve William's safety and, if possible, maintain his regime on the Sicilian island as a strategic buffer against Hohenstaufen control of both Germany and Sicily.
-- Worst-case Roman contingency: evacuate William to Roman territory rather than allow Henry to secure or eliminate the boy king. This is **plan only, not yet enacted**.
+- His regime is judged by Roman intelligence too weak to preserve the entire mainland-and-island kingdom against Henry VI.
+- Alexios does not plan to conquer Sicily. His objective is to preserve William's safety and, if possible, maintain his regime on the Sicilian island as a strategic buffer against Hohenstaufen control of both Germany and Sicily.
+- Worst-case Roman contingency remains evacuation of William to Roman territory rather than allowing Henry to secure or eliminate the boy king.
+- **Chapter 113:** the contingency becomes immediate war preparation. Alexios orders Sicily warned after learning of Frederick VI's confinement, while Henry orders forces summoned to attack the kingdom. The campaign outcome is not yet established.
 
 ## Sibylla of Acerra
 
-- Mother of William III and current regent of the weakened Sicilian kingdom after Tancred's death.
-- Chapter 111 establishes that Rome still has contact networks reaching the Sicilian court from the earlier Norman-war period.
-- Alexios orders that Sibylla be warned to prepare to withdraw to the Sicilian island if mainland positions collapse. This is a contingency plan, not an event already completed.
+- Mother of William III and regent of the weakened Sicilian kingdom after Tancred's death.
+- Rome retains contact networks reaching the Sicilian court from the earlier Norman-war period.
+- Alexios previously ordered that Sibylla prepare to withdraw to the Sicilian island if mainland positions collapse.
+- Chapter 113 moves the crisis from planning toward open war preparation, but Sibylla's actual movements and the fate of the mainland remain unresolved.
 
 ## Margaritus of Brindisi
 
 - Senior Sicilian naval figure and key potential defender of the Norman regime.
-- Chapter 111 makes him a deliberate Roman contact target: Alexios orders that he be told the Roman navy will guarantee the child king's safety.
-- His future cooperation, actual fleet operations, and the outcome at the Strait of Messina remain unresolved on-page.
+- Alexios has ordered that he be told the Roman navy will guarantee the child king's safety.
+- His future cooperation, actual fleet operations, and the outcome at the Strait of Messina remain unresolved on-page through chapter 113.
 
 ## Enrico Dandolo
 
@@ -65,7 +71,7 @@
 - Uses/encourages a large selloff of Roman state securities; Roman countermeasures blunt the attack.
 - Opens toward Henry in the western empire: "Rome counters Rome."
 - By ch111 Venice is included with Genoa and Pisa in Alexios's diplomatic pressure campaign over whether maritime republics will provide Henry naval support against Sicily.
-- Current status: principal external economic/strategic antagonist in the consolidation era.
+- Current status through ch113: principal external economic/strategic antagonist in the consolidation era; no new direct Venetian military action is yet shown in chapter 113.
 
 ## Kilij Arslan II
 
