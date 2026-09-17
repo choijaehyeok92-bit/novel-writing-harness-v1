@@ -22,8 +22,20 @@
 
 ## Post-import reviewed canonical additions
 
-- Chapter 108: `manuscripts/reviewed/108.바실리케 켈리티카.txt` — **reviewed and author-approved**, added on 2026-09-07; supersedes no earlier chapter and becomes the current canonical manuscript endpoint.
-- Canon extraction from chapter 108 updates the story endpoint, 1194 equestrian-festival timeline, Turkic-integration arc, imperial spectacle/symbol canon, and supporting-character canon.
+The following later manuscripts are **reviewed and author-approved canonical sources** stored under `manuscripts/reviewed/`:
+
+- Chapter 108: `manuscripts/reviewed/108.바실리케 켈리티카.txt`
+- Chapter 109: `manuscripts/reviewed/109.한 시대가 저물고.txt`
+- Chapter 110: `manuscripts/reviewed/110.하인리히.txt`
+- Chapter 111: `manuscripts/reviewed/111.미래를 그리다.txt`
+- Chapter 112: `manuscripts/reviewed/112.폴레미키 스홀리.txt`
+- Chapter 113: `manuscripts/reviewed/113.시칠리아.txt`
+- Chapter 114: `manuscripts/reviewed/114.시칠리아 (2).txt`
+- Chapter 115: `manuscripts/reviewed/115.산통.txt`
+
+**Current canonical manuscript endpoint: Chapter 115, `산통`.**
+
+Chapter-specific canon extraction and later override/addendum files under `canon/` supersede stale endpoint statements in older high-level canon documents while preserving the original import record.
 
 ## Import rule
 
