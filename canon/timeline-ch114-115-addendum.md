@@ -1,0 +1,18 @@
+# Timeline Addendum — Chapters 114–115
+
+> This addendum supersedes the chapter-113 endpoint in `canon/timeline.md`. Earlier timeline entries remain valid unless contradicted below.
+
+| Date | Event | Status | Source chapters | Consequence |
+|---|---|---|---|---|
+| post-ch113, before 1195; exact month not stated | Henry VI invades the Sicilian kingdom with about 10,000 imperial troops and rapidly secures the southern Italian mainland, including Gaeta, Naples, Salerno and Apulia | CONFIRMED | 114 | William III/Sibylla's mainland regime collapses; Henry reaches the Strait of Messina without requiring a major field battle |
+| same campaign | Henry encounters the Roman-backed San Raineri/Messina **Devil's Horn** denial fortress; Roman and Sicilian flags fly together | CONFIRMED ALT-HISTORY | 114 | Heavy landing, horses, siege equipment and supply transfer to the island become prohibitively dangerous |
+| same campaign | Venetian naval support is checked by the Roman fleet near the Otranto route; Genoa and Pisa turn back rather than enter open war with Rome; a Sicilian fleet also sorties | CONFIRMED | 114 | Henry lacks the naval lift needed to complete conquest of the island |
+| same campaign | Roman envoy and Henry dispute inherited Sicilian treaty rights; Henry accepts stopping at the strait for the present and orders preparations for Constance's coronation | CONFIRMED CURRENT SETTLEMENT | 114 | Southern mainland is Hohenstaufen-controlled while William III/Sibylla survive on the island under Roman protection; Constance's actual coronation is not yet shown |
+| same campaign | Henry vows to build a fleet, seize Constantinople and force Alexios to kneel; Alexios answers the challenge | CONFIRMED | 114 | Two-Romes rivalry becomes an explicit future-war commitment rather than only strategic suspicion |
+| **1195** | Anna gives birth safely to twins in the purple birth chamber: **Ioannes** and **Maria** | CONFIRMED DATE | 115 | Imperial dynasty expands; both children are born in the purple |
+| by 1195 | Empire-level maternal-health system includes certified midwives, mandatory hygiene, structured pregnancy-risk records, specialist-hospital referral, bimanual uterine compression and defined embryotomy criteria | CONFIRMED ESTABLISHED POLICY | 115 | Future-knowledge maternal safety measures have moved from palace precaution into institutional state practice |
+| 1195 | Venice enjoys exceptional profits from Roman/Levant trade while Dandolo and Ziani clash in the Great Council over strategic dependence on Rome | CONFIRMED | 115 | Venetian politics divides between Dandolo's anti-dependence/anti-Roman strategic line and Ziani's commercial-conciliation line |
+| 1195 | Dandolo cites Roman gold-convertible **grammation**, Roman shipping standards, naval strength and the Otranto episode as evidence of emerging Roman systemic dominance | CONFIRMED / EMERGING TREND | 115 | The grammation is established as an internationalizing instrument but not yet as an uncontested Mediterranean standard |
+| **1196** | Béla III of Hungary dies | CONFIRMED DATE ANCHOR | 115 | Hungarian succession becomes a seeded arena for coming eastern-western Roman competition |
+| **1196** | Stefan Nemanja abdicates the Serbian grand-princely title to Stefan Nemanjić and withdraws to monastic life | CONFIRMED DATE ANCHOR | 115 | Serbian succession becomes a second seeded arena for coming eastern-western Roman competition |
+| after the 1196 successions | Narration states that the Hungarian and Serbian successions will become proxy battlegrounds between the eastern and western Roman empires | CONFIRMED FORESHADOWING, NOT YET ENACTED WAR | 115 | Precise alliances, interventions and war outcomes remain open for later chapters |
