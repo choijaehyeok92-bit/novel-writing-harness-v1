@@ -32,8 +32,10 @@ The following later manuscripts are **reviewed and author-approved canonical sou
 - Chapter 113: `manuscripts/reviewed/113.시칠리아.txt`
 - Chapter 114: `manuscripts/reviewed/114.시칠리아 (2).txt`
 - Chapter 115: `manuscripts/reviewed/115.산통.txt`
+- Chapter 116: `manuscripts/reviewed/116.양 로마 대전.txt`
+- Chapter 117: `manuscripts/reviewed/117.양 로마 대전 (2).txt`
 
-**Current canonical manuscript endpoint: Chapter 115, `산통`.**
+**Current canonical manuscript endpoint: Chapter 117, `양 로마 대전 (2)`.**
 
 Chapter-specific canon extraction and later override/addendum files under `canon/` supersede stale endpoint statements in older high-level canon documents while preserving the original import record.
 
