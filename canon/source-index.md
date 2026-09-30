@@ -39,8 +39,9 @@ The following later manuscripts are **reviewed and author-approved canonical sou
 - Chapter 120: `manuscripts/reviewed/120.반격.txt`
 - Chapter 121: `manuscripts/reviewed/121.공화국을 위하여.txt`
 - Chapter 122: `manuscripts/reviewed/122.무엇을 남길 것인가.txt`
+- Chapter 123: `manuscripts/reviewed/123.무엇을 남길 것인가 (2).txt`
 
-**Current canonical manuscript endpoint: Chapter 122, `무엇을 남길 것인가`.**
+**Current canonical manuscript endpoint: Chapter 123, `무엇을 남길 것인가 (2)`.**
 
 Chapter-specific canon extraction and later override/addendum files under `canon/` supersede stale endpoint statements in older high-level canon documents while preserving the original import record.
 
